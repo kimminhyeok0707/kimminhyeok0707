@@ -4,7 +4,6 @@
 
 ### 🧑‍💻 About Me
 * 🎓 **컴퓨터공학 전공** (Computer Science Student)
-* 📍 **서울 기반** (Based in Seoul, Korea)
 * 🌱 **학습 중:** Android / Kotlin / Data Structures / C++
 * 🛠 **관심 분야:** 네트워크 프로그래밍, 백엔드 시스템 구축, 실시간 데이터 처리
 
@@ -28,17 +27,13 @@
 
 ### 📊 GitHub Stats
 
-![Minhyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimminhyeok0707&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminhyeok0707&layout=compact&theme=radical)
+
 
 ⸻
 
 ### 🚀 Projects
 
-#### ⏰ WakeUp (Android App)
-* **설명:** 알람 및 기상 유도 기능을 중심으로 한 기상 보조 애플리케이션
-* **역할:** 팀 프로젝트 기획 및 구현
-* **성과:** 2025 DMU 스마트앱프로젝트 경진대회 장려상 수상
+
 
 #### 🤝 MoimiProject (Appointment Management)
 * **설명:** 약속 관리 및 실시간 위치 공유 기능을 제공하는 서비스
